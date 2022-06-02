@@ -5,3 +5,5 @@ img_3
 img_4
 
 img_5555
+img_6
+img_7
